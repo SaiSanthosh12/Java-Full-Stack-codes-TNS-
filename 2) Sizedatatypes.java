@@ -13,3 +13,12 @@ class Sizedatatypes {
         //System.out.println("Size of Boolean:"+(Boolean.SIZE/8));
     }
 }
+
+Output:
+Size of Byte:1
+Size of Integer:4
+Size of Short:2
+Size of Long:8
+Size of Float:4
+Size of Double:8
+Size of Character:2
